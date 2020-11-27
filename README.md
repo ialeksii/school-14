@@ -1,5 +1,5 @@
 # school-14
->Информатика 9 класс.  
+>Информатика 8-9 класс.  
 Сборник задач с решением и исходниками на языке Pascal.
 
 # Содержание:  
@@ -9,4 +9,3 @@
   
 [☛ СКАЧАТЬ .ZIP ☚](https://github.com/ialeksii/school-14/archive/main.zip)  
 
-![alt text](https://yandex.ru/images/touch/search?text=pascal&source=tabbar&p=1&pos=25&rpt=simage&img_url=https%3A%2F%2Fsun9-53.userapi.com%2Fc540102%2Fv540102175%2F26646%2FcXzPi8f7yHY.jpg&ts=1606476223286)  
